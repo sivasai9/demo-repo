@@ -1,3 +1,4 @@
 # Demo
 
-some description anout github commands
+some description anout git and github commands
+
